@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan 👋
 
-I'm a studying Computer Science at Boston University. In my free time, I like to read, play volleyball, and tinker with open source.
+I'm studying Computer Science at Boston University. In my free time, I like to read, play volleyball, and tinker with open source.
 
 ### Things I'm interested in:
 - 📚 Full stack development
